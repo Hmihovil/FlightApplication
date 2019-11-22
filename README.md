@@ -7,7 +7,7 @@ This project aims to provide user the functionliaties of :
 * Reminder feature.
 
 ## Google Play (Published): 
-- goo.gl/pMjeen 
+- Link <link href="goo.gl/pMjeen"> 
 ### Data flow diagrams of flight application:
 <img src = "https://github.com/Nora-almansour/FlightApplication/blob/master/Screen%20Shot%201440-03-20%20at%2011.46.43%20AM.png">
 
